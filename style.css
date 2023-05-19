@@ -1,0 +1,12 @@
+body{   
+    margin: 0;
+    overflow: hidden;
+    background-color: #151719;
+    /* Fazer animaçao de background */
+}
+
+canvas{
+    padding-top: 0px;
+    width: 100%;
+    height: calc(100% - 0px);
+}
